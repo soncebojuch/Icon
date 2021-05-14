@@ -1,0 +1,36 @@
+body
+{
+background-image: url("angely.jpg") ;
+color:#EAA865  ;
+font-size: 17px;
+font-family: Andale Mono, monospace;
+}
+#container {
+background:#310D07  ;
+margin: 30px auto;
+width: 900px;
+height: 1000px;
+}
+#header {
+background:#58170B  ;
+height: 200px;
+width: 900px;
+font-size: 115px;
+}
+#menu {
+background:#441208  ;
+float: left;
+width: 200px;
+height: 600px;
+}
+#content {
+background: #711B0B ;
+float: right;
+width: 700px;
+height: 600px;
+}
+#footer {
+background: #838283;
+height: 80px;
+width: 900px;
+}
